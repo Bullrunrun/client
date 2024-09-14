@@ -1,0 +1,110 @@
+/*background*/
+.background {
+    position: relative;
+    width: 2115px;
+    height: 1080px;
+}
+
+/*all*/
+.all {
+    position: absolute;
+    width: 2115px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+}
+
+.play {
+    transition: transform 0.5s ease-in-out 0.1s;
+    /* 调整延迟时间和动画持续时间 */
+}
+
+.play:hover {
+    transform: scale(1.2);
+}
+
+
+
+/*MENU*/
+
+
+/*ConnectWallet*/
+#ConnectWallet {
+    position: absolute;
+    width: 284px;
+    height: 70px;
+    left: 1506px;
+    top: 66px;
+
+}
+
+/*Home*/
+#Home {
+    position: absolute;
+    width: 224px;
+    height: 98px;
+    left: 113px;
+    top: 553px;
+
+}
+
+/*Play*/
+#Play {
+    position: absolute;
+    width: 224px;
+    height: 98px;
+    left: 113px;
+    top: 696.27px;
+
+}
+
+/* Music */
+#Music {
+    position: absolute;
+    width: 70.86px;
+    height: 64px;
+    left: 1412px;
+    top: 66px;
+
+}
+
+
+
+/*HOME*/
+
+
+/*Deposit*/
+#Deposit {
+    position: absolute;
+    width: 268px;
+    height: 98px;
+    left: 90px;
+    top: 363px;
+}
+
+/*Withdraw*/
+#Withdraw {
+    position: absolute;
+    width: 268px;
+    height: 98px;
+    left: 92px;
+    top: 598px;
+}
+
+/*WalletId*/
+#WalletId {
+    position: absolute;
+    width: 217px;
+    height: 64px;
+    left: 1591px;
+    top: 66px;
+}
+
+/*YourBalance*/
+#YourBalance {
+    position: absolute;
+    width: 326px;
+    height: 235px;
+    left: 1582px;
+    top: 363px;
+}
